@@ -1,0 +1,30 @@
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.5em;
+    line-height: 1.25em;
+    background-image:url("img/stars.jpeg");
+    text-align: left;
+    color: #ffebcd;
+  }
+  header{
+  text-align: center;
+  background-color: black;
+  color: #7da805;
+  padding: .1em;
+  font-family: 'DotGothic16', sans-serif;
+
+  }
+  table{
+    background-color: rgba(0, 0, 0 , .5);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  td{
+    border-left: 1px #ffffff solid;
+
+  }
+  footer{
+    background-color: rgba(0, 0, 0 , .5);
+      text-align: center;
+  }
